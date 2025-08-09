@@ -7,5 +7,5 @@ Breast cancer continues to pose a significant health risk, remaining the second 
 
 ## System Architecture
 The core of our methodology is a multimodal learning framework that effectively combines visual and textual features for enhanced diagnostic accuracy. The system architecture, as detailed in the diagram below, outlines the key stages of our approach:
-
+![System Architecture](assets/Final_architecture.png)
 
